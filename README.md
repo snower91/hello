@@ -18,5 +18,8 @@ hello-world直接写文字
 [腾讯](http://www.qq.com/)  
 
 如果想挂图片
+![一个转圈的小黑猫](https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif)
+
+
 想文字换行，请空格两次再回车
 ～
